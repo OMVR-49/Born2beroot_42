@@ -24,4 +24,5 @@ The main objective of this project is to gain hands-on experience with system ad
 - Implementation of security measures.
 
 ## MyNotion
-[Visit My Notion Page](https://www.notion.so/born2beroot-push-0606980b3e6b4cb3be4ffc6d4daf9ce9) Maybe there will be some bad words while i was explainning to myself, btw it's written in Darija of Morocco not in English
+[Visit My Notion Page 1](https://www.notion.so/Born2beroot-184bd814bd37443699c202106c026169?pvs=4)
+[Visit My Notion Page 2](https://www.notion.so/born2beroot-push-0606980b3e6b4cb3be4ffc6d4daf9ce9) Maybe there will be some bad words while i was explainning to myself, btw it's written in Darija of Morocco not in English
